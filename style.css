@@ -1,6 +1,6 @@
 body {
-	color:#fff;
-	background:#333;
+	color:white;
+	background:green;
 	font-family:Courier;
 	width:960px;
 	margin:auto;
@@ -15,16 +15,16 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#00ff00;
+	color:red;
 }
 
 a, a:visited {
-	color:#c0c0c0;
+	color:red;
 	text-decoration:none;
 }
 
 a:hover {
-	color: #77ccee;
+	color: yellow;
 	text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ a:hover {
 	width:110px;
 	text-align:center;
 	font-size:13px;
-	border: 2px solid white;
+	border: 2px dashed white;
 	border-radius:10px;
 }
 
