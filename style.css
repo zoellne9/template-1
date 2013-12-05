@@ -45,7 +45,7 @@ a:hover {
 	width:110px;
 	text-align:center;
 	font-size:13px;
-	border: 2px dashed white;
+	border: 2px dashed gold;
 	border-radius:10px;
 }
 
@@ -60,7 +60,7 @@ a:hover {
 	list-style: none;
 	float:left;
 	margin-left:0;
-	border-right: 1px solid #c0c0c0;
+	border-right: 2px dashed gold;
 	}
 	
 #menu li {
